@@ -37,7 +37,7 @@
 </template>
 
 <script>
-import jsPDF from "jspdf";
+import jsPDF from "jspdf"; // 这中方式需要精确控制style
 
 export default {
   components: {},
