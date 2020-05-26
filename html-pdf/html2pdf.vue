@@ -55,6 +55,312 @@
       <p> 6.我们各自努力，最高处见。
       </p>
     </section>
+    <table
+      id="table"
+      class="table"
+      ref="table"
+    >
+      <tr>
+        <th>姓名</th>
+        <th>年龄</th>
+      </tr>
+
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+    </table>
+    <img
+      class="pic"
+      src="./pic.jpg"
+      alt=""
+    >
+
+    <section class="paper">
+      <p>1.愿所得皆所期，所失皆无碍</p>
+      <p>2.最好的状态是未来可期</p>
+
+      <p> 3.那些将要去的地方，都是素未谋面的故乡
+      </p>
+
+      <p> 4.对待自己温柔一点。你只不过是宇宙的孩子，与植物、星辰没什么两样。
+      </p>
+      <p> 5.热爱可抵岁月漫长。
+      </p>
+      <p> 6.我们各自努力，最高处见。
+      </p>
+    </section>
+    <table
+      id="table"
+      class="table"
+      ref="table"
+    >
+      <tr>
+        <th>姓名</th>
+        <th>年龄</th>
+      </tr>
+
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+    </table>
+    <img
+      class="pic"
+      src="./pic.jpg"
+      alt=""
+    >
+
+    <section class="paper">
+      <p>1.愿所得皆所期，所失皆无碍</p>
+      <p>2.最好的状态是未来可期</p>
+
+      <p> 3.那些将要去的地方，都是素未谋面的故乡
+      </p>
+
+      <p> 4.对待自己温柔一点。你只不过是宇宙的孩子，与植物、星辰没什么两样。
+      </p>
+      <p> 5.热爱可抵岁月漫长。
+      </p>
+      <p> 6.我们各自努力，最高处见。
+      </p>
+    </section>
+    <table
+      id="table"
+      class="table"
+      ref="table"
+    >
+      <tr>
+        <th>姓名</th>
+        <th>年龄</th>
+      </tr>
+
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+    </table>
+    <img
+      class="pic"
+      src="./pic.jpg"
+      alt=""
+    >
+
+    <section class="paper">
+      <p>1.愿所得皆所期，所失皆无碍</p>
+      <p>2.最好的状态是未来可期</p>
+
+      <p> 3.那些将要去的地方，都是素未谋面的故乡
+      </p>
+
+      <p> 4.对待自己温柔一点。你只不过是宇宙的孩子，与植物、星辰没什么两样。
+      </p>
+      <p> 5.热爱可抵岁月漫长。
+      </p>
+      <p> 6.我们各自努力，最高处见。
+      </p>
+    </section>
+    <table
+      id="table"
+      class="table"
+      ref="table"
+    >
+      <tr>
+        <th>姓名</th>
+        <th>年龄</th>
+      </tr>
+
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+    </table>
+    <img
+      class="pic"
+      src="./pic.jpg"
+      alt=""
+    >
+
+    <section class="paper">
+      <p>1.愿所得皆所期，所失皆无碍</p>
+      <p>2.最好的状态是未来可期</p>
+
+      <p> 3.那些将要去的地方，都是素未谋面的故乡
+      </p>
+
+      <p> 4.对待自己温柔一点。你只不过是宇宙的孩子，与植物、星辰没什么两样。
+      </p>
+      <p> 5.热爱可抵岁月漫长。
+      </p>
+      <p> 6.我们各自努力，最高处见。
+      </p>
+    </section>
+    <table
+      id="table"
+      class="table"
+      ref="table"
+    >
+      <tr>
+        <th>姓名</th>
+        <th>年龄</th>
+      </tr>
+
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+    </table>
+    <img
+      class="pic"
+      src="./pic.jpg"
+      alt=""
+    >
+
+    <section class="paper">
+      <p>1.愿所得皆所期，所失皆无碍</p>
+      <p>2.最好的状态是未来可期</p>
+
+      <p> 3.那些将要去的地方，都是素未谋面的故乡
+      </p>
+
+      <p> 4.对待自己温柔一点。你只不过是宇宙的孩子，与植物、星辰没什么两样。
+      </p>
+      <p> 5.热爱可抵岁月漫长。
+      </p>
+      <p> 6.我们各自努力，最高处见。
+      </p>
+    </section>
+    <table
+      id="table"
+      class="table"
+      ref="table"
+    >
+      <tr>
+        <th>姓名</th>
+        <th>年龄</th>
+      </tr>
+
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+      <tr>
+        <td>ranck</td>
+        <td>27</td>
+      </tr>
+    </table>
+    <img
+      class="pic"
+      src="./pic.jpg"
+      alt=""
+    >
+
+    <section class="paper">
+      <p>1.愿所得皆所期，所失皆无碍</p>
+      <p>2.最好的状态是未来可期</p>
+
+      <p> 3.那些将要去的地方，都是素未谋面的故乡
+      </p>
+
+      <p> 4.对待自己温柔一点。你只不过是宇宙的孩子，与植物、星辰没什么两样。
+      </p>
+      <p> 5.热爱可抵岁月漫长。
+      </p>
+      <p> 6.我们各自努力，最高处见。
+      </p>
+    </section>
   </div>
 </template>
 
@@ -74,7 +380,20 @@ export default {
   },
   mounted() {
     const element = document.querySelector('#pdf')
-    html2pdf(element);
+    // html2pdf(element);
+    var opt = {
+      margin: [1, 0, 0, 0],
+      filename: 'myfile.pdf',
+      image: { type: 'jpeg', quality: 0.98 },
+      html2canvas: { scale: 2 },
+      jsPDF: { unit: 'in', format: 'letter', orientation: 'portrait' },
+      pagebreak: { mode: ['avoid-all', 'css', 'legacy'] }
+
+    };
+
+    // New Promise-based usage:
+    html2pdf().set(opt).from(element).save();
+
   },
   methods: {},
   watch: {},
@@ -83,7 +402,7 @@ export default {
 
 <style scoped>
 .pdf {
-  padding: 60px 40px;
+  /* padding: 60px 40px; */
 }
 .table {
   border: 1px solid #ddd;
