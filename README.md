@@ -31,3 +31,5 @@ vue create [app-name]
 - [ ] 直接使用 jspdf 需要
 - [x] html2pdf本质是图片（success）【jspdf】
 - [ ] pdf(还没试过)
+
+> 图片需要设置宽高，不然会出现重绘问题导致部分元素渲染失败
